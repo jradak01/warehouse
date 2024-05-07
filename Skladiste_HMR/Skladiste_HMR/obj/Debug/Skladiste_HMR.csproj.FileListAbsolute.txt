@@ -1,0 +1,79 @@
+C:\Users\jopy_\OneDrive\Desktop\skladiste\Skladiste_HMR\Skladiste_HMR\bin\Debug\Skladiste_HMR.exe.config
+C:\Users\jopy_\OneDrive\Desktop\skladiste\Skladiste_HMR\Skladiste_HMR\bin\Debug\Skladiste_HMR.exe
+C:\Users\jopy_\OneDrive\Desktop\skladiste\Skladiste_HMR\Skladiste_HMR\bin\Debug\Skladiste_HMR.pdb
+C:\Users\jopy_\OneDrive\Desktop\skladiste\Skladiste_HMR\Skladiste_HMR\obj\Debug\Skladiste_HMR.csprojAssemblyReference.cache
+C:\Users\jopy_\OneDrive\Desktop\skladiste\Skladiste_HMR\Skladiste_HMR\obj\Debug\Skladiste_HMR.Form1.resources
+C:\Users\jopy_\OneDrive\Desktop\skladiste\Skladiste_HMR\Skladiste_HMR\obj\Debug\Skladiste_HMR.Properties.Resources.resources
+C:\Users\jopy_\OneDrive\Desktop\skladiste\Skladiste_HMR\Skladiste_HMR\obj\Debug\Skladiste_HMR.csproj.GenerateResource.cache
+C:\Users\jopy_\OneDrive\Desktop\skladiste\Skladiste_HMR\Skladiste_HMR\obj\Debug\Skladiste_HMR.csproj.CoreCompileInputs.cache
+C:\Users\jopy_\OneDrive\Desktop\skladiste\Skladiste_HMR\Skladiste_HMR\obj\Debug\Skladiste_HMR.exe
+C:\Users\jopy_\OneDrive\Desktop\skladiste\Skladiste_HMR\Skladiste_HMR\obj\Debug\Skladiste_HMR.pdb
+C:\Users\jopy_\OneDrive\Desktop\skladiste\Skladiste_HMR\Skladiste_HMR\obj\Debug\Skladiste_HMR.Form2.resources
+C:\Users\jopy_\OneDrive\Desktop\skladiste\Skladiste_HMR\Skladiste_HMR\obj\Debug\Skladiste_HMR.Form3.resources
+C:\Users\jopy_\OneDrive\Desktop\skladiste\Skladiste_HMR\Skladiste_HMR\obj\Debug\Skladiste_HMR.Form4.resources
+C:\Users\jopy_\OneDrive\Desktop\skladiste\Skladiste_HMR\Skladiste_HMR\obj\Debug\Skladiste_HMR.Form5.resources
+C:\Users\jopy_\OneDrive\Desktop\skladiste\Skladiste_HMR\Skladiste_HMR\obj\Debug\Skladiste_HMR.Form6.resources
+C:\Users\jopy_\OneDrive\Desktop\UPI_2122_INF22\Skladiste_HMR\Skladiste_HMR\bin\Debug\Skladiste_HMR.exe.config
+C:\Users\jopy_\OneDrive\Desktop\UPI_2122_INF22\Skladiste_HMR\Skladiste_HMR\bin\Debug\Skladiste_HMR.exe
+C:\Users\jopy_\OneDrive\Desktop\UPI_2122_INF22\Skladiste_HMR\Skladiste_HMR\bin\Debug\Skladiste_HMR.pdb
+C:\Users\jopy_\OneDrive\Desktop\UPI_2122_INF22\Skladiste_HMR\Skladiste_HMR\obj\Debug\Skladiste_HMR.csprojAssemblyReference.cache
+C:\Users\jopy_\OneDrive\Desktop\UPI_2122_INF22\Skladiste_HMR\Skladiste_HMR\obj\Debug\Skladiste_HMR.Properties.Resources.resources
+C:\Users\jopy_\OneDrive\Desktop\UPI_2122_INF22\Skladiste_HMR\Skladiste_HMR\obj\Debug\Skladiste_HMR.csproj.GenerateResource.cache
+C:\Users\jopy_\OneDrive\Desktop\UPI_2122_INF22\Skladiste_HMR\Skladiste_HMR\obj\Debug\Skladiste_HMR.csproj.CoreCompileInputs.cache
+C:\Users\jopy_\OneDrive\Desktop\UPI_2122_INF22\Skladiste_HMR\Skladiste_HMR\obj\Debug\Skladiste_HMR.exe
+C:\Users\jopy_\OneDrive\Desktop\UPI_2122_INF22\Skladiste_HMR\Skladiste_HMR\obj\Debug\Skladiste_HMR.pdb
+C:\Users\PC\Desktop\Nova mapa\UPI_2122_INF22\Skladiste_HMR\Skladiste_HMR\bin\Debug\Skladiste_HMR.exe.config
+C:\Users\PC\Desktop\Nova mapa\UPI_2122_INF22\Skladiste_HMR\Skladiste_HMR\bin\Debug\Skladiste_HMR.exe
+C:\Users\PC\Desktop\Nova mapa\UPI_2122_INF22\Skladiste_HMR\Skladiste_HMR\bin\Debug\Skladiste_HMR.pdb
+C:\Users\PC\Desktop\Nova mapa\UPI_2122_INF22\Skladiste_HMR\Skladiste_HMR\obj\Debug\Skladiste_HMR.csproj.AssemblyReference.cache
+C:\Users\PC\Desktop\Nova mapa\UPI_2122_INF22\Skladiste_HMR\Skladiste_HMR\obj\Debug\Skladiste_HMR.Form1.resources
+C:\Users\PC\Desktop\Nova mapa\UPI_2122_INF22\Skladiste_HMR\Skladiste_HMR\obj\Debug\Skladiste_HMR.Form2.resources
+C:\Users\PC\Desktop\Nova mapa\UPI_2122_INF22\Skladiste_HMR\Skladiste_HMR\obj\Debug\Skladiste_HMR.Form3.resources
+C:\Users\PC\Desktop\Nova mapa\UPI_2122_INF22\Skladiste_HMR\Skladiste_HMR\obj\Debug\Skladiste_HMR.Form4.resources
+C:\Users\PC\Desktop\Nova mapa\UPI_2122_INF22\Skladiste_HMR\Skladiste_HMR\obj\Debug\Skladiste_HMR.Form5.resources
+C:\Users\PC\Desktop\Nova mapa\UPI_2122_INF22\Skladiste_HMR\Skladiste_HMR\obj\Debug\Skladiste_HMR.Form6.resources
+C:\Users\PC\Desktop\Nova mapa\UPI_2122_INF22\Skladiste_HMR\Skladiste_HMR\obj\Debug\Skladiste_HMR.Properties.Resources.resources
+C:\Users\PC\Desktop\Nova mapa\UPI_2122_INF22\Skladiste_HMR\Skladiste_HMR\obj\Debug\Skladiste_HMR.csproj.GenerateResource.cache
+C:\Users\PC\Desktop\Nova mapa\UPI_2122_INF22\Skladiste_HMR\Skladiste_HMR\obj\Debug\Skladiste_HMR.csproj.CoreCompileInputs.cache
+C:\Users\PC\Desktop\Nova mapa\UPI_2122_INF22\Skladiste_HMR\Skladiste_HMR\obj\Debug\Skladiste_HMR.exe
+C:\Users\PC\Desktop\Nova mapa\UPI_2122_INF22\Skladiste_HMR\Skladiste_HMR\obj\Debug\Skladiste_HMR.pdb
+C:\Users\PC\Desktop\Nova mapa\UPI_2122_INF22\Skladiste_HMR\Skladiste_HMR\obj\Debug\Skladiste_HMR.Form7.resources
+C:\Users\jopy_\OneDrive\Desktop\UPI_2122_INF22\Skladiste_HMR\Skladiste_HMR\obj\Debug\Skladiste_HMR.frmPrijava.resources
+C:\Users\jopy_\OneDrive\Desktop\UPI_2122_INF22\Skladiste_HMR\Skladiste_HMR\obj\Debug\Skladiste_HMR.frmPocetna.resources
+C:\Users\jopy_\OneDrive\Desktop\UPI_2122_INF22\Skladiste_HMR\Skladiste_HMR\obj\Debug\Skladiste_HMR.frmSkladiste.resources
+C:\Users\jopy_\OneDrive\Desktop\UPI_2122_INF22\Skladiste_HMR\Skladiste_HMR\obj\Debug\Skladiste_HMR.frmPlaner.resources
+C:\Users\jopy_\OneDrive\Desktop\UPI_2122_INF22\Skladiste_HMR\Skladiste_HMR\obj\Debug\Skladiste_HMR.frmProizvodi.resources
+C:\Users\jopy_\OneDrive\Desktop\UPI_2122_INF22\Skladiste_HMR\Skladiste_HMR\obj\Debug\Skladiste_HMR.frmKorisnici.resources
+C:\Users\jopy_\OneDrive\Desktop\UPI_2122_INF22\Skladiste_HMR\Skladiste_HMR\obj\Debug\Skladiste_HMR.frmIsporuke.resources
+C:\Users\PC\Desktop\Nova mapa (2)\UPI_2122_INF22\Skladiste_HMR\Skladiste_HMR\bin\Debug\Skladiste_HMR.exe.config
+C:\Users\PC\Desktop\Nova mapa (2)\UPI_2122_INF22\Skladiste_HMR\Skladiste_HMR\bin\Debug\Skladiste_HMR.exe
+C:\Users\PC\Desktop\Nova mapa (2)\UPI_2122_INF22\Skladiste_HMR\Skladiste_HMR\bin\Debug\Skladiste_HMR.pdb
+C:\Users\PC\Desktop\Nova mapa (2)\UPI_2122_INF22\Skladiste_HMR\Skladiste_HMR\obj\Debug\Skladiste_HMR.csproj.AssemblyReference.cache
+C:\Users\PC\Desktop\Nova mapa (2)\UPI_2122_INF22\Skladiste_HMR\Skladiste_HMR\obj\Debug\Skladiste_HMR.frmPrijava.resources
+C:\Users\PC\Desktop\Nova mapa (2)\UPI_2122_INF22\Skladiste_HMR\Skladiste_HMR\obj\Debug\Skladiste_HMR.frmPocetna.resources
+C:\Users\PC\Desktop\Nova mapa (2)\UPI_2122_INF22\Skladiste_HMR\Skladiste_HMR\obj\Debug\Skladiste_HMR.frmSkladiste.resources
+C:\Users\PC\Desktop\Nova mapa (2)\UPI_2122_INF22\Skladiste_HMR\Skladiste_HMR\obj\Debug\Skladiste_HMR.frmPlaner.resources
+C:\Users\PC\Desktop\Nova mapa (2)\UPI_2122_INF22\Skladiste_HMR\Skladiste_HMR\obj\Debug\Skladiste_HMR.frmProizvodi.resources
+C:\Users\PC\Desktop\Nova mapa (2)\UPI_2122_INF22\Skladiste_HMR\Skladiste_HMR\obj\Debug\Skladiste_HMR.frmKorisnici.resources
+C:\Users\PC\Desktop\Nova mapa (2)\UPI_2122_INF22\Skladiste_HMR\Skladiste_HMR\obj\Debug\Skladiste_HMR.frmIsporuke.resources
+C:\Users\PC\Desktop\Nova mapa (2)\UPI_2122_INF22\Skladiste_HMR\Skladiste_HMR\obj\Debug\Skladiste_HMR.Properties.Resources.resources
+C:\Users\PC\Desktop\Nova mapa (2)\UPI_2122_INF22\Skladiste_HMR\Skladiste_HMR\obj\Debug\Skladiste_HMR.csproj.GenerateResource.cache
+C:\Users\PC\Desktop\Nova mapa (2)\UPI_2122_INF22\Skladiste_HMR\Skladiste_HMR\obj\Debug\Skladiste_HMR.csproj.CoreCompileInputs.cache
+C:\Users\PC\Desktop\Nova mapa (2)\UPI_2122_INF22\Skladiste_HMR\Skladiste_HMR\obj\Debug\Skladiste_HMR.exe
+C:\Users\PC\Desktop\Nova mapa (2)\UPI_2122_INF22\Skladiste_HMR\Skladiste_HMR\obj\Debug\Skladiste_HMR.pdb
+C:\Users\domag\Source\Repos\UPI_2122_INF22\Skladiste_HMR\Skladiste_HMR\bin\Debug\Skladiste_HMR.exe.config
+C:\Users\domag\Source\Repos\UPI_2122_INF22\Skladiste_HMR\Skladiste_HMR\bin\Debug\Skladiste_HMR.exe
+C:\Users\domag\Source\Repos\UPI_2122_INF22\Skladiste_HMR\Skladiste_HMR\bin\Debug\Skladiste_HMR.pdb
+C:\Users\domag\Source\Repos\UPI_2122_INF22\Skladiste_HMR\Skladiste_HMR\obj\Debug\Skladiste_HMR.csproj.AssemblyReference.cache
+C:\Users\domag\Source\Repos\UPI_2122_INF22\Skladiste_HMR\Skladiste_HMR\obj\Debug\Skladiste_HMR.frmPrijava.resources
+C:\Users\domag\Source\Repos\UPI_2122_INF22\Skladiste_HMR\Skladiste_HMR\obj\Debug\Skladiste_HMR.frmPocetna.resources
+C:\Users\domag\Source\Repos\UPI_2122_INF22\Skladiste_HMR\Skladiste_HMR\obj\Debug\Skladiste_HMR.frmSkladiste.resources
+C:\Users\domag\Source\Repos\UPI_2122_INF22\Skladiste_HMR\Skladiste_HMR\obj\Debug\Skladiste_HMR.frmPlaner.resources
+C:\Users\domag\Source\Repos\UPI_2122_INF22\Skladiste_HMR\Skladiste_HMR\obj\Debug\Skladiste_HMR.frmProizvodi.resources
+C:\Users\domag\Source\Repos\UPI_2122_INF22\Skladiste_HMR\Skladiste_HMR\obj\Debug\Skladiste_HMR.frmKorisnici.resources
+C:\Users\domag\Source\Repos\UPI_2122_INF22\Skladiste_HMR\Skladiste_HMR\obj\Debug\Skladiste_HMR.frmIsporuke.resources
+C:\Users\domag\Source\Repos\UPI_2122_INF22\Skladiste_HMR\Skladiste_HMR\obj\Debug\Skladiste_HMR.Properties.Resources.resources
+C:\Users\domag\Source\Repos\UPI_2122_INF22\Skladiste_HMR\Skladiste_HMR\obj\Debug\Skladiste_HMR.csproj.GenerateResource.cache
+C:\Users\domag\Source\Repos\UPI_2122_INF22\Skladiste_HMR\Skladiste_HMR\obj\Debug\Skladiste_HMR.csproj.CoreCompileInputs.cache
+C:\Users\domag\Source\Repos\UPI_2122_INF22\Skladiste_HMR\Skladiste_HMR\obj\Debug\Skladiste_HMR.exe
+C:\Users\domag\Source\Repos\UPI_2122_INF22\Skladiste_HMR\Skladiste_HMR\obj\Debug\Skladiste_HMR.pdb
